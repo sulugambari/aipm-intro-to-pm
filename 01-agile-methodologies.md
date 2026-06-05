@@ -33,7 +33,7 @@ Agile approaches reduce this risk by delivering value in smaller increments and
 using each increment to learn.
 
 ```mermaid
-flowchart LR
+flowchart TD
     A["Plan enough to start"] --> B["Build a small increment"]
     B --> C["Show working output"]
     C --> D["Collect feedback and evidence"]
